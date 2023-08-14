@@ -1,0 +1,15 @@
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.manifest
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.application
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe.manifest
+c:\users\hesoltek\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.application
+C:\Users\HESOLTEK\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.LoginForm1.resources
